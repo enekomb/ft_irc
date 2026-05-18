@@ -1,0 +1,4 @@
+ircserv
+*.o
+*.a
+.DS_Store
